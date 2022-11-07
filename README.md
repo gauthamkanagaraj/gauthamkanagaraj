@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautham A K (@gauthamkanagaraj)</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/gautham_1998" target="blank"><img src="https://img.shields.io/twitter/follow/gautham_1998?logo=twitter&style=for-the-badge" alt="gautham_1998" /></a> </p>
-
 - 🔭 I’m currently working as a Software Engineer **builing effiecient and reliable web applications and services**
 
 - 🌱 I also love exploring various areas of **scientific computing**
