@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gautham A K (@gauthamkanagaraj)</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Quantum Computing Enthusiast and a passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working as a Software Engineer **builing effiecient and reliable web applications and services**
-
-- 🌱 I also love exploring various areas of **scientific computing**
+- 🌱 I love exploring various areas of **scientific computing**
 
 - 👨‍💻 Learn more about me at [https://gauthamkanagaraj.com](https://gauthamkanagaraj.com)
 
-- 📫 How to reach me **gautham.ak@gauthamkanagaraj.com**
+- 📫 How to reach me **gauthamkanagaraj1998@gmail.com / gautham.ak@sketa.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
